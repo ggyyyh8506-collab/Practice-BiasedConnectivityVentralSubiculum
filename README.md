@@ -11,6 +11,7 @@
 
 ## The code of exercise in Jupyter notebook
 [Link to codes in ipynb](https://github.com/ggyyyh8506-collab/Practice-BiasedConnectivityVentralSubiculum/blob/main/3D_plot_exercise_plotly.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ggyyyh8506-collab/Practice-BiasedConnectivityVentralSubiculum/main?urlpath=%2Fdoc%2Ftree%2F3D_plot_exercise_plotly.ipynb)
 
 ## The code of exercise in python version
 [Python version](https://github.com/ggyyyh8506-collab/Practice-BiasedConnectivityVentralSubiculum/blob/main/3D_plot_exercise_plotly.py)
