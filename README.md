@@ -8,3 +8,9 @@
 
 ## Links to dataset/supplementary information
 [Link to dataset](https://github.com/MacAskillLab/Wee_2020_TRIO)
+
+## The code of exercise in Jupyter notebook
+[Link to codes in ipynb](https://github.com/ggyyyh8506-collab/Practice-BiasedConnectivityVentralSubiculum/blob/main/3D_plot_exercise_plotly.ipynb)
+
+## The code of exercise in python version
+[Python version](https://github.com/ggyyyh8506-collab/Practice-BiasedConnectivityVentralSubiculum/blob/main/3D_plot_exercise_plotly.py)
